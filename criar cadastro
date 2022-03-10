@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<div>
+    <head>
+        <title>Vita vinhos</title>
+		<meta name="description" content="Pagina da Vita vinhos">
+		<meta name="keywords" content="vinhos, espumantes, champagne,eventos">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Fazer cadastro</title>
+        <link rel="stylesheet" href="css/style.css">
+
+    </head>
+</div>
+        <body>
+    <center><h1><b>Fazer Cadastro</b></h1></center>
+
+    <ol>
+<div>
+        <center>
+        <hr>
+        <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="Nome"> <br>
+        <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="Idade"> <br>
+        <input type="date"> <br>
+        <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="Estado"> <br>
+        <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="E-mail"> <br>
+        <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="Senha"> <br>
+        <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="Confirmar senha"> <br>
+        <br>
+        <input type="button" value="Confirmar cadastro"><br> </form>
+        <br>
+        <a href="index.html">Voltar para login</a>
+        </center>
+</div>
+    </ol>
+        </body>
+</html>
