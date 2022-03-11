@@ -28,9 +28,9 @@
         <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="Senha"> <br>
         <form action="fazer-cadastro.html" method="post" class=""> <input type="text" placeholder="Confirmar senha"> <br>
         <br>
-        <input type="button" value="Confirmar cadastro"><br> </form>
+        <input type="button" class="btn" value="Confirmar cadastro"><br> </form>
         <br>
-        <a href="index.html">Voltar para login</a>
+    <h3>    <a href="index.html">Voltar para login</a>  </h3>
         </center>
 </div>
     </ol>
